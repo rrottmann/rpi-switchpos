@@ -9,6 +9,8 @@ When we set pin 10 to high, we can detect either low or high on pin 8.
 
 ![Raspberry Pi Zero W GPIO Header Pinout](pi0w-pinout.jpg)
 
+[SRC](https://subscription.packtpub.com/book/hardware_and_creative/9781788290524/1/01lvl1sec9/raspberry-pi-zero-w)
+
 ## Usage
 
 ```bash
